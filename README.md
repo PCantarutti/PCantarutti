@@ -17,6 +17,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 **DevOps**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -29,7 +31,7 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
+<a href="https://github.com/PCantarutti" title="Perfil do PCantarutti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PCantarutti&theme=radical&show_icons=true" />
 </a>
 
