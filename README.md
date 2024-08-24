@@ -38,5 +38,5 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Pedro_Cantarutti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/pedro-cantarutti-3255b2240/)
-[![Gmail Badge](https://img.shields.io/badge/-pedrocantarutti022@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=pedrocantarutti022@gmail.com:pedrocantarutti022@gmail.com)](pedrocantarutti022@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-pedrocantarutti022@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrocantarutti022@gmail.com)](pedrocantarutti022@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/PCantarutti?label=follow&style=social)](https://github.com/PCantarutti)
